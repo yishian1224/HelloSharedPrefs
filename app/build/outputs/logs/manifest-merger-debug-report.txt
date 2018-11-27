@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\051dbb9bda70f280fbb348094e27e61c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0d333b93b893dd4d93504f2799ace789\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f2b9c1a190cec21a567f561aa53cce3b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\af3fbac30690e261dc19d4a3fe999440\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\83c3305ffe0d43a74f11cd6d29d157ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e63250f95a446c04d4443c2bc344d674\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ec9f8028674279b4449a88374c78f219\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c09ef26daeb3e9aea305361741ee9405\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d0b9f52e2b9360af573ff988261e0265\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4c199eabe6cf5fffb973ce44a3705c96\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6aee5d9ed8b6c3efb8e084c4dcb78cf0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2da047abd723868b712a80dc627af617\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0d333b93b893dd4d93504f2799ace789\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0d333b93b893dd4d93504f2799ace789\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\051dbb9bda70f280fbb348094e27e61c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\051dbb9bda70f280fbb348094e27e61c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0d333b93b893dd4d93504f2799ace789\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\0d333b93b893dd4d93504f2799ace789\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f2b9c1a190cec21a567f561aa53cce3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\f2b9c1a190cec21a567f561aa53cce3b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\af3fbac30690e261dc19d4a3fe999440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\af3fbac30690e261dc19d4a3fe999440\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\83c3305ffe0d43a74f11cd6d29d157ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\83c3305ffe0d43a74f11cd6d29d157ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e63250f95a446c04d4443c2bc344d674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e63250f95a446c04d4443c2bc344d674\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ec9f8028674279b4449a88374c78f219\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\ec9f8028674279b4449a88374c78f219\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c09ef26daeb3e9aea305361741ee9405\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\c09ef26daeb3e9aea305361741ee9405\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d0b9f52e2b9360af573ff988261e0265\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d0b9f52e2b9360af573ff988261e0265\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4c199eabe6cf5fffb973ce44a3705c96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\4c199eabe6cf5fffb973ce44a3705c96\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6aee5d9ed8b6c3efb8e084c4dcb78cf0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6aee5d9ed8b6c3efb8e084c4dcb78cf0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2da047abd723868b712a80dc627af617\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\taruc\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2da047abd723868b712a80dc627af617\AndroidManifest.xml:20:5-44
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mobile App\android-fundamentals-starter-apps-v2-master\android-fundamentals-starter-apps-v2-master\HelloSharedPrefs\app\src\main\AndroidManifest.xml
